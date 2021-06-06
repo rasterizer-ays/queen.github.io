@@ -1,0 +1,60 @@
+html{
+    background-color:  rgb(255, 191, 203);
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 28px;
+    margin-left: 50px;
+}
+
+
+h2{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+p{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-style: unset;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #2a4449;
+}
+
+
+
+td{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-style: unset;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #2a4449;
+}
+
+li{
+    font-size: 14px;
+    font-style:inherit;
+    margin-left: 30px;
+    margin-right: 50px;
+    color: #2a4449;
+    }
+
+img{
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    
+
+table{
+       margin-left: 50px;
+       margin-right: 50px;
+       margin-top: 50px;
+        background-color: rgb(251, 251, 251);
+    }
